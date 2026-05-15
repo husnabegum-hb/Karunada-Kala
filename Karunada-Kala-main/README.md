@@ -138,12 +138,3 @@ Contributions are what make the open-source community thrive. If you'd like to h
 3. Commit your changes: `git commit -m 'Add some AmazingFeature'`
 4. Push to the branch: `git push origin feature/AmazingFeature`
 5. Open a Pull Request.
-
-
-
-**Darshan Gowda A**
-*Android Developer & Cultural Tech Innovator*
-[darshgowdru2004@gmail.com](mailto:darshgowdru2004@gmail.com)
-
----
-*Created with ❤️ for the Heritage of Karnataka.*
